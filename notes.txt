@@ -1,0 +1,11 @@
+Advantages of spark:
+- Run workloads 100x faster.
+- Ease of use; write in java, scala, python, R
+- Generality; Combine SQL, streaming and complex analytics.
+- Runs everywhere; Hadoop, Kubernetes, standalone or cloud
+
+Creating venv and activate.
+- Run env.sh passing in 1 param which is name of virtual env.
+- In vscode bottom rght select python version and set to virtual env.
+- Run pip installs.
+
